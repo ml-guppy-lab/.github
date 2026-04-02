@@ -18,50 +18,67 @@ I'm a Software Engineer, currently navigating the vast ocean of Machine Learning
 ---
 
 ## 🌊 My Current Skill Graph
-
 ```mermaid
-mindmap
-  root((The ML Guppy 🐟))
-    Python Core
-      NumPy + Pandas
-      FastAPI Backend
-      Requirements & venv
-    Computer Vision 🔥
-      OpenCV (real-time)
-      MediaPipe (hands + face)
-      Gesture Recognition
-      Particle Systems
-      AR Effects (origami, AuraHands, fire_writing)
-    Generative AI & LLMs
-      Llama 3.1 (BumDerHinge)
-      DeepSeek + API
-      Stable Diffusion (memes)
-      HuggingFace + PyTorch
-    ML & Data Science
-      scikit-learn (recsys + anomalies)
-      IsolationForest
-      Cosine Similarity
-      TensorFlow/Keras contours
-    Audio & Sonification 🎵
-      librosa (pitch + amplitude)
-      MIDI + pyfluidsynth
-      Voice → Art (vocal_painting)
-      Stock → Music (Nvidia)
-    Creative Viz & Art 🎨
-      Matplotlib Animations (cat parade!)
-      Plotly + Wavesurfer
-      Perlin Noise (cosmic-starfield)
-      Color Extraction
-    Full-Stack Magic
-      React + Vite Frontend
-      API Design
-      Dating App Parodies
-    Superpower
-      Funny IG Reels (@themlguppy)
-      From .NET → AI in ~4 months
-*(Projects will be added weekly)*
-```
+flowchart TD
+    Root((The ML Guppy 🐟)) 
 
+    %% Main Branches
+    Python[Python Core]
+    CV[Computer Vision 🔥]
+    GenAI[Generative AI & LLMs]
+    ML[ML & Data Science]
+    Audio[Audio & Sonification 🎵]
+    Viz[Creative Viz & Art 🎨]
+    FullStack[Full-Stack Magic]
+    Super[Superpower]
+
+    Root --> Python
+    Root --> CV
+    Root --> GenAI
+    Root --> ML
+    Root --> Audio
+    Root --> Viz
+    Root --> FullStack
+    Root --> Super
+
+    %% Sub skills
+    Python --> NumPy["NumPy + Pandas"]
+    Python --> FastAPI["FastAPI Backend"]
+    Python --> Venv["Requirements & venv"]
+
+    CV --> OpenCV["OpenCV (real-time)"]
+    CV --> MediaPipe["MediaPipe (hands + face)"]
+    CV --> Gesture["Gesture Recognition"]
+    CV --> Particles["Particle Systems"]
+    CV --> AR["AR Effects<br/>(origami, AuraHands, fire_writing)"]
+
+    GenAI --> Llama["Llama 3.1 (BumDerHinge)"]
+    GenAI --> DeepSeek["DeepSeek + API"]
+    GenAI --> SD["Stable Diffusion (memes)"]
+    GenAI --> HF["HuggingFace + PyTorch"]
+
+    ML --> Scikit["scikit-learn (recsys + anomalies)"]
+    ML --> Isolation["IsolationForest"]
+    ML --> Cosine["Cosine Similarity"]
+    ML --> TF["TensorFlow/Keras contours"]
+
+    Audio --> Librosa["librosa (pitch + amplitude)"]
+    Audio --> MIDI["MIDI + pyfluidsynth"]
+    Audio --> Vocal["Voice → Art (vocal_painting)"]
+    Audio --> Nvidia["Stock → Music (Nvidia)"]
+
+    Viz --> Matplot["Matplotlib Animations (cat parade!)"]
+    Viz --> Plotly["Plotly + Wavesurfer"]
+    Viz --> Perlin["Perlin Noise (cosmic-starfield)"]
+    Viz --> Color["Color Extraction"]
+
+    FullStack --> React["React + Vite Frontend"]
+    FullStack --> API["API Design"]
+    FullStack --> Dating["Dating App Parodies"]
+
+    Super --> Reels["Funny IG Reels (@themlguppy)"]
+    Super --> Journey["From .NET → AI in ~4 months"]
+```
 ---
 
 ## 🗺️ Learning Roadmap
