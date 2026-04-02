@@ -17,8 +17,11 @@ I'm a Software Engineer, currently navigating the vast ocean of Machine Learning
 
 ---
 
-```mindmap
-  root((The ML Guppy))
+## 🌊 My Current Skill Graph
+
+```mermaid
+mindmap
+  root((The ML Guppy 🐟))
     Python Core
       NumPy + Pandas
       FastAPI Backend
@@ -39,12 +42,12 @@ I'm a Software Engineer, currently navigating the vast ocean of Machine Learning
       IsolationForest
       Cosine Similarity
       TensorFlow/Keras contours
-    Audio & Sonification
+    Audio & Sonification 🎵
       librosa (pitch + amplitude)
       MIDI + pyfluidsynth
       Voice → Art (vocal_painting)
       Stock → Music (Nvidia)
-    Creative Viz & Art
+    Creative Viz & Art 🎨
       Matplotlib Animations (cat parade!)
       Plotly + Wavesurfer
       Perlin Noise (cosmic-starfield)
@@ -54,8 +57,8 @@ I'm a Software Engineer, currently navigating the vast ocean of Machine Learning
       API Design
       Dating App Parodies
     Superpower
-      Funny IG Reels
-      From .NET → AI in 4 months
+      Funny IG Reels (@themlguppy)
+      From .NET → AI in ~4 months
 *(Projects will be added weekly)*
 ```
 
