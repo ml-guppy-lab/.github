@@ -17,7 +17,7 @@ I'm a Software Engineer, currently navigating the vast ocean of Machine Learning
 
 ---
 
-mindmap
+```mindmap
   root((The ML Guppy))
     Python Core
       NumPy + Pandas
@@ -57,6 +57,7 @@ mindmap
       Funny IG Reels
       From .NET → AI in 4 months
 *(Projects will be added weekly)*
+```
 
 ---
 
