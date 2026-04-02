@@ -17,13 +17,45 @@ I'm a Software Engineer, currently navigating the vast ocean of Machine Learning
 
 ---
 
-## 📂 Project Index
-
-| # | Project | Concept | Status |
-|---|---------|---------|--------|
-| 1 | [Color-palette-extractor](https://github.com/ml-guppy-lab/color-palette-extractor) | extracts the most visually soothing, dominant colors from any image| 🚧 Done |
-| 2 | Coming soon! | | 📅 Planned |
-
+mindmap
+  root((The ML Guppy))
+    Python Core
+      NumPy + Pandas
+      FastAPI Backend
+      Requirements & venv
+    Computer Vision 🔥
+      OpenCV (real-time)
+      MediaPipe (hands + face)
+      Gesture Recognition
+      Particle Systems
+      AR Effects (origami, AuraHands, fire_writing)
+    Generative AI & LLMs
+      Llama 3.1 (BumDerHinge)
+      DeepSeek + API
+      Stable Diffusion (memes)
+      HuggingFace + PyTorch
+    ML & Data Science
+      scikit-learn (recsys + anomalies)
+      IsolationForest
+      Cosine Similarity
+      TensorFlow/Keras contours
+    Audio & Sonification
+      librosa (pitch + amplitude)
+      MIDI + pyfluidsynth
+      Voice → Art (vocal_painting)
+      Stock → Music (Nvidia)
+    Creative Viz & Art
+      Matplotlib Animations (cat parade!)
+      Plotly + Wavesurfer
+      Perlin Noise (cosmic-starfield)
+      Color Extraction
+    Full-Stack Magic
+      React + Vite Frontend
+      API Design
+      Dating App Parodies
+    Superpower
+      Funny IG Reels
+      From .NET → AI in 4 months
 *(Projects will be added weekly)*
 
 ---
